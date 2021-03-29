@@ -1,6 +1,6 @@
 Django==1.11.2
 PyYAML==3.12
-Pygments==2.2.0
+Pygments==2.7.4
 anyjson==0.3.3
 argparse==1.2.1
 backports.shutil-get-terminal-size==1.0.0
